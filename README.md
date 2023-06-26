@@ -13,8 +13,7 @@ As you can check along my repositories, my most important programming skills are
 
 I do mainly functional programming and I have some experience with OOP too.
 
-###### I'm currently working on learning new techniques to make visualizations more interesting to the eye of the reader, as well as getting experience managing 
-###### datasets. I will keep my GitHub updated, so have a look frequently to see my progress! 😊
+###### I'm currently working on learning new techniques to make visualizations more interesting to the eye of the reader, as well as getting experience managing datasets. I will keep my GitHub updated, so have a look frequently to see my progress! 😊
 
 
 📫 How to reach me:
