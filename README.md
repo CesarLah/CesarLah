@@ -7,7 +7,7 @@ I've gained the tools and experience needed to be a Data Scientist thanks to my 
 
 As you can check along my repositories, my most important programming skills are (in order of experience):
 1. ***Python***. Including modules such as ***Matplotlib***, ***NumPy***, ***Scikit-learn***, ***SpaCy***, ***Pandas*** or ***Sqlite***. I successfully have done different projects in Python and I can consider it the programming language where I feel more confident coding in.
-2. ***C/C++***. Learned during the realization of my MSc and during the project ***"Meto"*** to program the Arduino board.
+2. ***C/C++***. Learned during the realization of my MSc and during the project ***"ArduMeteo"*** to program the Arduino board.
 3. ***Matlab***. Where I can do integrations, derivations, visualizations and many other things thanks to the numerous toolboxes they provide.
 4. ***JavaScript, HTML5, CCS***. I have done some little projects in this languages and I will be uploading them to my account ASAP.
 
